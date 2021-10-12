@@ -17,7 +17,7 @@ A basic twitter clone using tutorial by CJ
      * install mongodb,monk
 
 
- ## Error
+ ## Errors 
  * Unable to insert into database
   * Respond with created post object
   * Store data into database
