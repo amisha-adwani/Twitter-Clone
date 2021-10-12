@@ -1,4 +1,4 @@
-# Twitter kinda thing
+# Twitter Clone
 A basic twitter clone using tutorial by CJ
 
 ## What's done?
