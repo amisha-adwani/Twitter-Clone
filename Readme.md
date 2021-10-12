@@ -19,8 +19,8 @@ A basic twitter clone using tutorial by CJ
 
  ## Error
  * Unable to insert into database
-  ** Respond with created post object
-  ** Store data into database
+  * Respond with created post object
+  * Store data into database
 
  ## What's next?
 * Back-end
